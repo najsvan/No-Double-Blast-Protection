@@ -1,0 +1,6 @@
+name: NoDoubleBlastProt
+version: 1.0.0
+main: org.blastprot.noDoubleBlastProtection.NoDoubleBlastProt
+api-version: 1.21
+description: Forces crystal-like knockback when wearing 2+ blast protection armor pieces
+author: najsvan
